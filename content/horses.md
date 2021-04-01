@@ -16,6 +16,9 @@ horses:
   - name: Mr Ed
     description: White horse that can talk
     character: Smart ass
+  - name: Morty
+    description: A black horse
+    character: Playful
 ---
 
 This is the profile page for some of my horses.
